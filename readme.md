@@ -1,5 +1,6 @@
 # Flexbox[froggy] Cheat Sheet
-all content from [flexboxfroggy.com]()
+all content from [flexboxfroggy.com](). This is just a place for me to remember
+this stuff.
 
 ### justify-content
 *   flex-start: Items align to the left side of the container.
